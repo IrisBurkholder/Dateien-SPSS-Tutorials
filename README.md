@@ -10,6 +10,10 @@ Dieses GitHub-Repository beinhaltet die zu den SPSS-Erklärvideos des YouTube-Ka
 | [SPSSExport.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/41c04b0eef4b40a20d9483ad46947cc89f905025/Dateneingabe/spssexport.sav) |Export von SPSS Daten nach Excel | 
 | [AggregierteDaten.pdf](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/7a20da64cb37b98346fc601cb029f53a215e4992/Dateneingabe/aggregiertedaten.pdf)       | Eingabe von aggregierten Daten | 
 
+<br />
+<br />
+
+
 ## Datenmanagement
 
 | Datei        | Benötigtes Video           | 
