@@ -7,7 +7,7 @@ Dieses GitHub-Repository beinhaltet die zu den SPSS-Erklärvideos des YouTube-Ka
 
 ## Dateneingabe
 
-| Datei        | Benötigtes Video           | 
+| Datei        | Zugehöriges Video           | 
 | ------------- |-------------| 
 | [ExcelImport.xlsx](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/41c04b0eef4b40a20d9483ad46947cc89f905025/Dateneingabe/excelimport.xlsx)    |Import von Excel Daten      | 
 | [SPSSExport.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/41c04b0eef4b40a20d9483ad46947cc89f905025/Dateneingabe/spssexport.sav) |Export von SPSS Daten nach Excel | 
@@ -19,7 +19,7 @@ Dieses GitHub-Repository beinhaltet die zu den SPSS-Erklärvideos des YouTube-Ka
 
 ## Datenmanagement
 
-| Datei        | Benötigtes Video           | 
+| Datei        | Zugehöriges Video           | 
 | ------------- |-------------| 
 | [WerteUnplausibel.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/41c04b0eef4b40a20d9483ad46947cc89f905025/Datenmanagement/werteunplausibel.sav) |Unplausible Werte als fehlende Werte definieren| 
 | [VariableBerechnen.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/41c04b0eef4b40a20d9483ad46947cc89f905025/Datenmanagement/variableberechnen.sav)|Berechnung neuer Variablen|
@@ -32,20 +32,24 @@ Dieses GitHub-Repository beinhaltet die zu den SPSS-Erklärvideos des YouTube-Ka
 | [SelectCase.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/41c04b0eef4b40a20d9483ad46947cc89f905025/Datenmanagement/selectcase.sav) |Fälle auswählen| 
 
  
+<br />
+<br />
 
 ## Deskriptive Statistik
 
-| Datei        | Benötigtes Video           | 
+| Datei        | Zugehöriges Video           | 
 | ------------- |-------------| 
 | [BenutzerTabelle.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/41c04b0eef4b40a20d9483ad46947cc89f905025/DeskriptiveStatistik/benutzertabelle.sav)       | Erstellung benutzerdefinierter Tabellen| 
 | [Korrelation.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/41c04b0eef4b40a20d9483ad46947cc89f905025/DeskriptiveStatistik/korrelation.sav) |Korrelationskoeffizient nach Pearson  | 
 | [LinRegression.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/e293ce43a694d3521d0e67d679297efdb2d9ac57/DeskriptiveStatistik/linregression.sav) |Lineare Regression| 
 | [Grafiken.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/e293ce43a694d3521d0e67d679297efdb2d9ac57/DeskriptiveStatistik/grafiken.sav) |Kreisdiagramm, Univariates Balkendiagramm, Gruppiertes Balkendiagramm, Streudiagramm, Univariater Boxplot, Gruppierter Boxplot| 
 
+<br />
+<br />
 
 ## Statistische Tests
 
-| Datei        | Benötigtes Video           | 
+| Datei        | Zugehöriges Video           | 
 | ------------- |-------------| 
 | [Shapiro.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/e293ce43a694d3521d0e67d679297efdb2d9ac57/StatistischeTests/shapiro.sav) |Prüfen auf Normalverteilung (Shapiro-Wilk-Test)| 
 | [ChiQuadrat.sav](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/e293ce43a694d3521d0e67d679297efdb2d9ac57/StatistischeTests/chiquadrat.sav)|Chi-Quadrat Test|
