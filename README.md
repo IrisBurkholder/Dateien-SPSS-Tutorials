@@ -2,6 +2,9 @@
 Dieses GitHub-Repository beinhaltet die zu den SPSS-Erklärvideos des YouTube-Kanals ["Iris Burkholder erklärt"](https://www.youtube.com/@irisburkholdererklart2730/featured) benötigten Dateien. 
 
 
+>[!TIP] 
+>Zum Downloaden der Dateien, muss die Datei angeklickt werden, woraufhin man in den jeweiligen Unterordner navigiert wird. Dort kann die Datei über einen Klick auf das Downloadzeichen heruntergeladen werden.
+
 ## Dateneingabe
 
 | Datei        | Benötigtes Video           | 
