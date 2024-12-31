@@ -5,6 +5,11 @@ Dieses GitHub-Repository beinhaltet die zu den SPSS-Erklärvideos des YouTube-Ka
 >[!TIP] 
 >Zum Downloaden der Dateien, muss die Datei angeklickt werden, woraufhin man in den jeweiligen Unterordner navigiert wird. Dort kann die Datei über einen Klick auf das Downloadzeichen heruntergeladen werden.
 
+<br />
+<br />
+
+***
+
 ## Dateneingabe
 
 | Datei        | Zugehöriges Video           | 
