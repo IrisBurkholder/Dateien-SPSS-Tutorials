@@ -4,6 +4,8 @@ Dieses GitHub-Repository beinhaltet die zu den SPSS-Erklärvideos des YouTube-Ka
 
 >[!TIP] 
 >Zum Downloaden der Dateien, muss die Datei angeklickt werden, woraufhin man in den jeweiligen Unterordner navigiert wird. Dort kann die Datei über einen Klick auf das Downloadzeichen heruntergeladen werden.
+>
+>![Download-Button](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/74d79ae9f5566a8bcea66fd1fb0a4d96c01c3482/Bilder/Download-Symbol.png)
 
 <br />
 <br />
