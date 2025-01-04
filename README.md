@@ -8,7 +8,6 @@ Dieses GitHub-Repository beinhaltet die zu den SPSS-Erklärvideos des YouTube-Ka
 >![Download-Button](https://github.com/IrisBurkholder/Dateien-SPSS-Tutorials/blob/74d79ae9f5566a8bcea66fd1fb0a4d96c01c3482/Bilder/Download-Symbol.png)
 
 <br />
-<br />
 
 ***
 
